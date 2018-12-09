@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/Malik-G/rgb_guessing_game/issues"
   },
-  "homepage": "https://github.com/Malik-G/rgb_guessing_game#readme"
+  "homepage": "https://github.com/Malik-G/rgb_guessing_game#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
 }

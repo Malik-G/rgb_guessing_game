@@ -1,9 +1,8 @@
 ## RGB Guessing Game
-This is a web application that I made with javascript, specifically jQuery. Each new iteration of the game displays a random RGB value at the top of the screen. The user is tasked with clicking the square that corresponds with the current RGB value being shown.
+This is a web application that I made with javascript. Each new iteration of the game displays a random RGB value at the top of the screen. The user is tasked with clicking the square that corresponds with the current RGB value being shown.
 
 ## Technologies
 - Javascript
-- jQuery
 - HTML/CSS
 
 ## Future Versions
